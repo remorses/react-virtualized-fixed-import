@@ -1,4 +1,4 @@
-Fixed version of react virtualized that compiles with esbuild
+Fixed version of react virtualized that compiles with esbuild https://github.com/bvaughn/react-virtualized/issues/1632
 
 To use it in your repo add the following resolution
 
